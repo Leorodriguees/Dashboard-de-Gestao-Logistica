@@ -202,7 +202,7 @@ A utilização de indicadores, filtros, detalhamentos e análises por diferentes
 
 ### Dashboard Executivo
 
-> Imagem do dashboard será adicionada aqui.
+![Dashboard Executivo](dashboard-executivo-logistica-neon.png)
 
 ### Mapa e Distribuição
 
