@@ -37,7 +37,7 @@ Desenvolver uma ferramenta de acompanhamento da operação logística, permitind
 
 Visão geral da operação com os principais indicadores de acompanhamento logístico.
 
-![Dashboard Executivo](dashboard-executivo.png)
+![Dashboard Executivo](dashboard-executivo-logistica-neon.png)
 
 ---
 
